@@ -7,7 +7,7 @@ with_fx :reverb do
   live_loop :excite do
     play :C2, amp: 2
     sleep 0.5
-    play :E2, amp: 2
+    play :E2, amp: 21
     sleep 0.5
     play :G2, amp: 2
     sleep 0.5
